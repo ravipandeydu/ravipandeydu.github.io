@@ -1,34 +1,36 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.e64f430c.js",
+    "main.js": "/static/js/main.372a5a05.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/myroundpic.png": "/static/media/myroundpic.c4c7e416881dd223da9a.png",
+    "static/media/dermstore.png": "/static/media/dermstore.9a04453b92923693e85d.png",
     "static/media/banggood.png": "/static/media/banggood.eae2ec51d003661bd4aa.png",
     "static/media/rentomojo.png": "/static/media/rentomojo.15ef4830dd4d5c206314.png",
-    "static/media/Ravishankar-Kumar-Resume.pdf": "/static/media/Ravishankar-Kumar-Resume.36817d35ac65f6f74082.pdf",
-    "static/media/contactme.png": "/static/media/contactme.0f7bcf43e34bb855a5e8.png",
+    "static/media/loseit.png": "/static/media/loseit.d735076d3447c7f9ad50.png",
+    "static/media/clockify.png": "/static/media/clockify.7edc90269bf28107a57b.png",
+    "static/media/Ravishankar-Kumar-Resume.pdf": "/static/media/Ravishankar-Kumar-Resume.c5bec5700d5f3081b8a3.pdf",
     "static/media/mylogo.png": "/static/media/mylogo.1561bf04e8ae3b9c5f8d.png",
     "static/media/react.png": "/static/media/react.3e9820dc44ddde88975e.png",
     "static/media/nodejs.png": "/static/media/nodejs.c2e22c634a7336cbe298.png",
     "static/media/css.png": "/static/media/css.4e67641bb68b658d9b2b.png",
-    "static/media/dsaproblems.png": "/static/media/dsaproblems.fb5132963d045596d499.png",
-    "static/media/codinghours.png": "/static/media/codinghours.bf93e8c2f2dd76f2ddc1.png",
+    "static/media/codinghours.png": "/static/media/codinghours.a548246432bdfe35e23c.png",
+    "static/media/dsaproblems.png": "/static/media/dsaproblems.60537add8d776b6740fe.png",
+    "static/media/gitcommits.png": "/static/media/gitcommits.ea5776396a971d019a72.png",
+    "static/media/softskillshours.png": "/static/media/softskillshours.6911a92fa33a1f739833.png",
     "static/media/express.png": "/static/media/express.375eee7619857b2ae37a.png",
-    "static/media/gitcommits.png": "/static/media/gitcommits.74f7311993f4e53cd8df.png",
-    "static/media/softskillshours.png": "/static/media/softskillshours.bff435b830108374f24b.png",
-    "static/media/projectnumbers.png": "/static/media/projectnumbers.12f8dd523035b8264c54.png",
+    "static/media/projectnumbers.png": "/static/media/projectnumbers.15714f89f1c476e82ced.png",
     "static/media/html.png": "/static/media/html.33745eadd572612bdf11.png",
     "static/media/redux.png": "/static/media/redux.b3b939c66aecf7d53967.png",
     "static/media/mongodb.png": "/static/media/mongodb.909c449de1a2e13f24cb.png",
     "static/media/javascript.png": "/static/media/javascript.266bd9fb2663dcc057b4.png",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.e64f430c.js.map": "/static/js/main.e64f430c.js.map",
+    "main.372a5a05.js.map": "/static/js/main.372a5a05.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e64f430c.js"
+    "static/js/main.372a5a05.js"
   ]
 }
