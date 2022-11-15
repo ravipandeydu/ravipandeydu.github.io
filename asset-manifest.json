@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.474b2b24.js",
+    "main.js": "/static/js/main.61d27421.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/myroundpic.png": "/static/media/myroundpic.c4c7e416881dd223da9a.png",
     "static/media/dermstore.png": "/static/media/dermstore.9a04453b92923693e85d.png",
@@ -10,6 +10,7 @@
     "static/media/loseit.png": "/static/media/loseit.d735076d3447c7f9ad50.png",
     "static/media/clockify.png": "/static/media/clockify.7edc90269bf28107a57b.png",
     "static/media/Ravishankar-Kumar-Resume.pdf": "/static/media/Ravishankar-Kumar-Resume.c5bec5700d5f3081b8a3.pdf",
+    "static/media/vscode.png": "/static/media/vscode.19edc3fbac1c451f289d.png",
     "static/media/mylogo.png": "/static/media/mylogo.1561bf04e8ae3b9c5f8d.png",
     "static/media/react.png": "/static/media/react.3e9820dc44ddde88975e.png",
     "static/media/nodejs.png": "/static/media/nodejs.c2e22c634a7336cbe298.png",
@@ -27,11 +28,11 @@
     "static/media/postman.webp": "/static/media/postman.7066eb08ea17b7fe2069.webp",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.474b2b24.js.map": "/static/js/main.474b2b24.js.map",
+    "main.61d27421.js.map": "/static/js/main.61d27421.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.474b2b24.js"
+    "static/js/main.61d27421.js"
   ]
 }
